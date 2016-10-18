@@ -1,0 +1,9 @@
+c:\users\dangou\documents\visual studio 2015\Projects\IMGScan\IMGScan\bin\Debug\IMGScan.exe.config
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\bin\Debug\IMGScan.exe
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\bin\Debug\IMGScan.pdb
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\obj\Debug\IMGScan.csprojResolveAssemblyReference.cache
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\obj\Debug\IMGScan.Form1.resources
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\obj\Debug\IMGScan.Properties.Resources.resources
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\obj\Debug\IMGScan.csproj.GenerateResource.Cache
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\obj\Debug\IMGScan.exe
+C:\Users\Dangou\Documents\Visual Studio 2015\Projects\IMGScan\IMGScan\obj\Debug\IMGScan.pdb
